@@ -15,3 +15,5 @@ Locate your API Key here, OpenAI: https://platform.openai.com/account/api-keys
 6. In another instance from the root directory run ''npm run start:backend''
 
 7. Open Http://LocalHost:3000
+
+8. (Optional) Run Both FE and BE with `npm-run-all start:frontend start:backend`
